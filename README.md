@@ -121,7 +121,7 @@ The dashboard enables users to:
 Budget-vs-Actual-Analysis/
 │
 ├── Budget_vs_Actual_Dashboard.xlsx
-├── Dashboard_Screenshot.png
+├── Main_Dashboard_Screenshot.png
 ├── Project_Report.pdf
 ├── Presentation.pptx
 └── README.md
